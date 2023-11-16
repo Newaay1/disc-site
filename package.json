@@ -1,0 +1,15 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "seinao",
+  "main": "index.html",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  },
+  "author": "",
+  "license": "ISC"
+}
